@@ -2,7 +2,7 @@
 
 The project revolves around hospitality analytics, with data from multiple properties of AtliQ Hotels analyzed using Power BI. The key metrics presented include Revenue, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), occupancy percentage, realization percentage, and cancellation percentage, with insights categorized by city, property name, day type, room class, and booking platform.
 
-# Key Insights:
+## Key Insights:
 
 # Overall Performance:
 
