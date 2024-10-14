@@ -40,7 +40,7 @@ Highest ADR: The direct booking platform had one of the highest ADRs but not the
 Cancellation Rate: Around 24% across properties.
 Average Rating: Overall rating of 3.62 with little variation by booking platform or day type.
 
-#Final Insights:
+# Final Insights:
 Revenue Optimization: With Mumbai leading revenue generation and Delhi lagging behind, targeted strategies to increase bookings and occupancy in Delhi could help narrow the revenue gap.
 Platform Strategy: Direct bookings seem underutilized compared to aggregators, so enhancing the direct platform's visibility could yield better control and margins.
 City Focus: Efforts to boost performance in cities like Bangalore and Hyderabad may enhance property utilization.
